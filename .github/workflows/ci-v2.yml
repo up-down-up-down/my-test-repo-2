@@ -1,0 +1,2 @@
+name: CI v3 updated
+on: [push, pull_request]
